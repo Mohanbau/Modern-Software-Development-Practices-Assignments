@@ -3,35 +3,35 @@
 # 1 Certification Requirement
 > - AI Fluency for Students
 >
-> Kindly submit the verification link here 
+>  http://verify.skilljar.com/c/io525v8c6h27
 > - Introduction to Agent Skills
 >
-> Kindly submit the verification link here
+> http://verify.skilljar.com/c/8566nkmxy8v7
 > 
-> Kindly upload the certifications PDF in Google Drive Link
+> (https://drive.google.com/drive/folders/1YtbhiNw0G1Q5gkOAh5We3WUPFzV4yGBJ)
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - (https://github.com/Mohanbau/AIML-1-credit)
 >
-> - Kindly submit the Vercel Deployment URL
+> - (https://aiml-1-credit-psi.vercel.app/)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - (https://mohanbau.github.io/AIML-1-credit/)
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - (https://github.com/MGDharan/life-dashboard-hub)
 >
-> - Kindly submit the Live Application URL (Domain)
+> - (https://lifegoal-dash-ai.lovable.app/login)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - (https://mgdharan.github.io/life-dashboard-hub/)
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> (https://www.linkedin.com/posts/mohanbabu-subramanian-220a82290_lifedashboard-aiproject-aidevelopment-share-7444685214746001409-3mPg?utm_source=share&utm_medium=member_android&rcm=ACoAAEajTrgBbTR7Qp8Ilh_4z-9o0sJky2dy6mU)
 
 ## For Second Year Buddies
 
